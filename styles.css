@@ -8,18 +8,19 @@ body {
     font-family: outfit;
     height: 100vh;
     width: 100vw;
+    position: fixed;
     
 }
 
 .container {
     background-color: hsl(212, 45%, 89%);
     display: flex;
-    width: 95%;
+    width: 1945px; 
     text-align: center;
 }
 
 .caixa {
-    width: 18%;
+    width: 350px;
     background-color: hsl(0, 0%, 100%);
     display:inline-block;
     text-align: center;
